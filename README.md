@@ -1,2 +1,1 @@
-# Capabl_DS-Weekly-Lectures
-Weekly Lectures Notebooks
+Get all the Weekly Lectures Notebooks here. 
